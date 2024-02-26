@@ -2,11 +2,11 @@
  
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-To view a live example, [click here](https://munenecalvin.github.io/Final-Portfolio-Website/)
+To view a live example, [click here](https://github.com/prashant0926/Modern-Portfolio--Design-Js)
 
 ### Website Preview
 
-![preview img](/preview.png)
+![preview img](/previews.png)
 
 ## Features 📋
 - Responsive Personal Portfolio Website Design Using HTML CSS & JavaScript
