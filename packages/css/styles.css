@@ -528,41 +528,37 @@ img {
   width: 70%;
 }
 
-.skills__wordpress {
-  width: 75%;
+
+
+.skills__photoshop {
+  width: 70%;
 }
 
-.skills__python {
+.skills__canva {
+  width: 80%;
+}
+
+.skills__indesign {
   width: 60%;
 }
 
-.skills__tab {
+.skills__illustator {
+  width: 80%;
+}
+
+.skills__react {
+  width: 70%;
+}
+
+.skills__git {
   width: 70%;
 }
 
 .skills__sql {
-  width: 50%;
-}
-
-.skills__google {
   width: 70%;
 }
 
-.skills__bank {
-  width: 80%;
-}
 
-.skills__google {
-  width: 70%;
-}
-
-.skills__counter {
-  width: 80%;
-}
-
-.skills__office {
-  width: 90%;
-}
 
 .skills__close .skills__list {
   height: 0;
